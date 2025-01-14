@@ -6,6 +6,7 @@
 	"exports": {
 		".": "./index.js",
 		"./RequireObjectCoercible": "./RequireObjectCoercible.js",
+		"./isObject": "./isObject.js",
 		"./ToObject": "./ToObject.js",
 		"./package.json": "./package.json"
 	},
