@@ -135,3 +135,4 @@ package-lock.json
 yarn.lock
 
 .npmignore
+benchmark.js
